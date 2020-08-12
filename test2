@@ -1,0 +1,26 @@
+{
+  "author": null,
+  "gameName": "test2",
+  "steps": [
+    {
+      "name": "BtnBgEnter",
+      "pos": [
+        0.5,
+        0.889444351
+      ],
+      "type": "Button",
+      "sleep": 12
+    },
+    {
+      "name": "BtnBag",
+      "pos": [
+        0.9213542,
+        0.0379629247
+      ],
+      "type": "Button",
+      "code": "print('open bag')"
+    },
+  ],
+  "originPage": null,
+  "executeTime": 0
+}
